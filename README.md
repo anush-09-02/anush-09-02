@@ -1,4 +1,8 @@
-
+- 👋 Hi, I’m @anush-09-02
+- 👀 I’m interested in enhancing my technical skills
+- 🌱 I’m currently learning different programming languages
+- 📫 How to reach me -
+     email -jain.anush853@gmail.com
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anush-jain-632717233/) 
 
