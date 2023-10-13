@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anush-09-02
-- 👀 I’m interested in enhancing my technical skills
+- 👀 I’m interested in enhancing my technical skills and love exploring new things plus love to work in a team.
 - 🌱 I’m currently learning different programming languages
 - 📫 How to reach me -
      email -jain.anush853@gmail.com
